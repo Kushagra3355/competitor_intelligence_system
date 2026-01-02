@@ -1,0 +1,5 @@
+exa-py
+openai
+python-dotenv
+firecrawl
+firecrawl-py
